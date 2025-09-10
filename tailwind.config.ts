@@ -47,6 +47,26 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        success: {
+          DEFAULT: "hsl(var(--success))",
+          foreground: "hsl(var(--success-foreground))",
+        },
+        warning: {
+          DEFAULT: "hsl(var(--warning))",
+          foreground: "hsl(var(--warning-foreground))",
+        },
+        data: {
+          DEFAULT: "hsl(var(--data))",
+          foreground: "hsl(var(--data-foreground))",
+        },
+        chart: {
+          madhura: "hsl(var(--chart-madhura))",
+          amla: "hsl(var(--chart-amla))",
+          lavana: "hsl(var(--chart-lavana))",
+          katu: "hsl(var(--chart-katu))",
+          tikta: "hsl(var(--chart-tikta))",
+          kashaya: "hsl(var(--chart-kashaya))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
